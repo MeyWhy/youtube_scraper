@@ -6,3 +6,4 @@
 - https://github.com/youtube/api-samples/blob/master/python/playlist_updates.py  
 - https://medium.com/@a.s.boltenkov.vst/how-i-automated-the-collection-and-analysis-of-youtube-channel-data-using-python-youtube-api-and-6b6ee0e770be
 - https://www.youtube.com/watch?v=vQQEaSnQ_bs
+- https://github.com/dvorachek/Youtube-Classification
